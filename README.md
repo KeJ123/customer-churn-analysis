@@ -118,10 +118,9 @@ customer-churn-analysis
 (Add screenshots here)
 
 ```markdown
-![Churn by Plan] <img width="614" height="365" alt="churn_plan" src="https://github.com/user-attachments/assets/6b1ae305-edcf-4a0b-a1b0-6b8dd835d198" />
+![Churn by Plan](images/churn_plan.png)
 
-
-![Revenue Loss](images/revenue_loss.png)
+![Heatmap](images/headmap.png)
 
 ![State Analysis](images/state.png)
 ```
