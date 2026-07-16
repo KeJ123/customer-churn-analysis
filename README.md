@@ -115,15 +115,15 @@ customer-churn-analysis
 
 # 📷 Visualizations
 
-(Add screenshots here)
-
-```markdown
+### Churn by Plan
 ![Churn by Plan](images/churn_plan.png)
 
+### Heatmap
 ![Heatmap](images/headmap.png)
 
+### State Analysis
 ![State Analysis](images/state.png)
-```
+
 
 ---
 
