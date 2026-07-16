@@ -119,7 +119,7 @@ customer-churn-analysis
 ![Churn by Plan](images/churn_plan.png)
 
 ### Heatmap
-![Heatmap](images/headmap.png)
+![Heatmap](images/heatmap.png)
 
 ### State Analysis
 ![State Analysis](images/state.png)
